@@ -99,10 +99,6 @@
 #    define ENABLE_RGB_MATRIX_SOLID_SPLASH
 //#    define ENABLE_RGB_MATRIX_SOLID_MULTISPLASH
 
-// Home row mods
-#define TAPPING_TERM 200
-#define IGNORE_MOD_TAP_INTERRUPT
-
 /* Set LED driver current */
 #    define CKLED2001_CURRENT_TUNE \
         { 0x14, 0x14, 0x14, 0x14, 0x14, 0x14, 0x14, 0x14, 0x14, 0x14, 0x14, 0x14 }
